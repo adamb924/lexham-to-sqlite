@@ -22,7 +22,7 @@ Next I generate a stripped-down version of the translation, removing paratextual
 
     xsltproc  -o "LEB.stripped.xml" "strip-meta.xsl" "LEB.xml"
 
-(One minor thing: I just eliminated the <i> tag from the text. It seems that outside of the notes, it is used only to highlight the word Rabboni.)
+(One minor thing: I just eliminated the &lt;i&gt; tag from the text. It seems that outside of the notes, it is used only to highlight the word Rabboni.)
 
 Then I convert this into a tab delimited format, suitable to import into SQLite. This also converts book names like "1 Ch" into "1Ch", to make it easier to parse later.
 
