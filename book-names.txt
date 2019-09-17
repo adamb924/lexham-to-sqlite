@@ -1,0 +1,66 @@
+Ge	Genesis	Genesis		
+Ex	Exodus	Exodus		
+Le	Leviticus	Leviticus		
+Nu	Numeri	Numbers		
+Dt	Deuteronomium	Deuteronomy		
+Jos	Josua	Joshua		
+Jdg	Judices	Judges		
+Ru	Ruth	Ruth		
+1Sa	Samuel_I	1_Samuel		
+2Sa	Samuel_II	2_Samuel		
+1Ki	Reges_I	1_Kings		
+2Ki	Reges_II	2_Kings		
+1Ch	Chronica_I	1_Chronicles		
+2Ch	Chronica_II	2_Chronicles		
+Ezr	Esra	Ezra		
+Ne	Nehemia	Nehemiah		
+Es	Esther	Esther		
+Job	Iob	Job		
+Ps	Psalmi	Psalms		
+Pr	Proverbia	Proverbs		
+Ec	Ecclesiastes	Ecclesiastes		
+So	Canticum	Song_of_songs		
+Is	Jesaia	Isaiah		
+Je	Jeremia	Jeremiah		
+La	Threni	Lamentations		
+Eze	Ezechiel	Ezekiel		
+Da	Daniel	Daniel		
+Ho	Hosea	Hosea		
+Joe	Joel	Joel		
+Am	Amos	Amos		
+Ob	Obadia	Obadiah		
+Jon	Jona	Jonah		
+Mic	Micha	Micah		
+Na	Nahum	Nahum		
+Hab	Habakuk	Habakkuk		
+Zep	Zephania	Zephaniah		
+Hag	Haggai	Haggai		
+Zec	Sacharia	Zechariah		
+Mal	Maleachi	Malachi		
+Mt			Mat	Matthew
+Mk			Mar	Mark
+Lk			Luk	Luke
+Jn			Joh	John
+Ac			Act	Acts
+Ro			Rom	Romans
+1Co			1Co	1 Corinthians
+2Co			2Co	2 Corinthians
+Ga			Gal	Galatians
+Eph			Eph	Ephesians
+Php			Phi	Philippians
+Col			Col	Colossians
+1Th			1Th	1 Thessalonians
+2Th			2Th	2 Thessalonians
+1Ti			1Ti	1 Timothy
+2Ti			2Ti	2 Timothy
+Titus			Tit	Titus
+Phm			Phm	Philemon
+Heb			Heb	Hebrews
+Jas			Jam	James
+1Pe			1Pe	1 Peter
+2Pe			2Pe	2 Peter
+1Jn			1Jo	1 John
+2Jn			2Jo	2 John
+3 Jn			3Jo	3 John
+Jud			Jud	Jude
+Re			Rev	Revelation

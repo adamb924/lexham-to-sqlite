@@ -1,0 +1,81 @@
+-- block is a formatting thing (e.g., letter from Jerusalem council)
+/leb/book/chapter/block/p
+/leb/book/chapter/block/p/idiom-end
+/leb/book/chapter/block/p/idiom-start
+/leb/book/chapter/block/p/note
+/leb/book/chapter/block/p/note/supplied
+/leb/book/chapter/block/p/supplied
+/leb/book/chapter/block/p/verse-number
+-- p is a paragraph formatting tag (like HTML)
+/leb/book/chapter/p
+-- i is italic (like html)
+/leb/book/chapter/p/i
+-- idiom-start marks the beginning of an idiomatic translation
+/leb/book/chapter/p/idiom-end
+-- idiom-end marks the beginning of an idiomatic translation
+/leb/book/chapter/p/idiom-start
+-- note is a footnote (to be printed or not)
+/leb/book/chapter/p/note
+/leb/book/chapter/p/note/b
+/leb/book/chapter/p/note/cite
+/leb/book/chapter/p/note/i
+/leb/book/chapter/p/note/sc
+/leb/book/chapter/p/note/supplied
+/leb/book/chapter/p/note/supplied/i
+-- supplied is where they've inserted words not in the original
+/leb/book/chapter/p/supplied
+-- verse-number is just the verse number (not hierarchical)
+/leb/book/chapter/p/verse-number
+-- this is just the name of a label
+/leb/book/chapter/pericope
+/leb/book/chapter/pericope/note/cite
+-- this is how they represent poetically formatted text
+/leb/book/chapter/ul/li1
+/leb/book/chapter/ul/li1/i
+/leb/book/chapter/ul/li1/idiom-end
+/leb/book/chapter/ul/li1/idiom-start
+/leb/book/chapter/ul/li1/note
+/leb/book/chapter/ul/li1/note/cite
+/leb/book/chapter/ul/li1/note/i
+/leb/book/chapter/ul/li1/note/sc
+/leb/book/chapter/ul/li1/note/supplied
+/leb/book/chapter/ul/li1/supplied
+/leb/book/chapter/ul/li1/supplied/note
+/leb/book/chapter/ul/li1/verse-number
+/leb/book/chapter/ul/li2
+/leb/book/chapter/ul/li2/idiom-end
+/leb/book/chapter/ul/li2/idiom-start
+/leb/book/chapter/ul/li2/note
+/leb/book/chapter/ul/li2/note/cite
+/leb/book/chapter/ul/li2/note/i
+/leb/book/chapter/ul/li2/note/supplied
+/leb/book/chapter/ul/li2/supplied
+/leb/book/chapter/ul/li2/verse-number
+/leb/book/chapter/ul/li3
+/leb/book/chapter/ul/li3/idiom-end
+/leb/book/chapter/ul/li3/idiom-start
+/leb/book/chapter/ul/li3/note
+/leb/book/chapter/ul/li3/note/cite
+/leb/book/chapter/ul/li3/note/i
+/leb/book/chapter/ul/li3/note/supplied
+/leb/book/chapter/ul/li3/supplied
+/leb/book/chapter/ul/li3/verse-number
+/leb/book/p
+/leb/book/p/idiom-end
+/leb/book/p/idiom-start
+/leb/book/p/note
+/leb/book/p/note/cite
+/leb/book/p/note/supplied
+/leb/book/p/supplied
+/leb/book/p/verse-number
+/leb/book/pericope
+/leb/license/p
+/leb/license/p/a
+/leb/preface/p
+/leb/preface/p/cite
+/leb/preface/p/i
+/leb/preface/p/idiom-end
+/leb/preface/p/idiom-start
+/leb/title/p
+/leb/title/p
+/leb/trademark/p
