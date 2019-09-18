@@ -1,66 +1,158 @@
-Ge	Genesis	Genesis		
-Ex	Exodus	Exodus		
-Le	Leviticus	Leviticus		
-Nu	Numeri	Numbers		
-Dt	Deuteronomium	Deuteronomy		
-Jos	Josua	Joshua		
-Jdg	Judices	Judges		
-Ru	Ruth	Ruth		
-1Sa	Samuel_I	1_Samuel		
-2Sa	Samuel_II	2_Samuel		
-1Ki	Reges_I	1_Kings		
-2Ki	Reges_II	2_Kings		
-1Ch	Chronica_I	1_Chronicles		
-2Ch	Chronica_II	2_Chronicles		
-Ezr	Esra	Ezra		
-Ne	Nehemia	Nehemiah		
-Es	Esther	Esther		
-Job	Iob	Job		
-Ps	Psalmi	Psalms		
-Pr	Proverbia	Proverbs		
-Ec	Ecclesiastes	Ecclesiastes		
-So	Canticum	Song_of_songs		
-Is	Jesaia	Isaiah		
-Je	Jeremia	Jeremiah		
-La	Threni	Lamentations		
-Eze	Ezechiel	Ezekiel		
-Da	Daniel	Daniel		
-Ho	Hosea	Hosea		
-Joe	Joel	Joel		
-Am	Amos	Amos		
-Ob	Obadia	Obadiah		
-Jon	Jona	Jonah		
-Mic	Micha	Micah		
-Na	Nahum	Nahum		
-Hab	Habakuk	Habakkuk		
-Zep	Zephania	Zephaniah		
-Hag	Haggai	Haggai		
-Zec	Sacharia	Zechariah		
-Mal	Maleachi	Malachi		
-Mt			Mat	Matthew
-Mk			Mar	Mark
-Lk			Luk	Luke
-Jn			Joh	John
-Ac			Act	Acts
-Ro			Rom	Romans
-1Co			1Co	1 Corinthians
-2Co			2Co	2 Corinthians
-Ga			Gal	Galatians
-Eph			Eph	Ephesians
-Php			Phi	Philippians
-Col			Col	Colossians
-1Th			1Th	1 Thessalonians
-2Th			2Th	2 Thessalonians
-1Ti			1Ti	1 Timothy
-2Ti			2Ti	2 Timothy
-Titus			Tit	Titus
-Phm			Phm	Philemon
-Heb			Heb	Hebrews
-Jas			Jam	James
-1Pe			1Pe	1 Peter
-2Pe			2Pe	2 Peter
-1Jn			1Jo	1 John
-2Jn			2Jo	2 John
-3 Jn			3Jo	3 John
-Jud			Jud	Jude
-Re			Rev	Revelation
+Gen	GEN	Ge	Genesis	Genesis		
+Exod	EXO	Ex	Exodus	Exodus		
+Lev	LEV	Le	Leviticus	Leviticus		
+Num	NUM	Nu	Numeri	Numbers		
+Deut	DEU	Dt	Deuteronomium	Deuteronomy		
+Josh	JOS	Jos	Josua	Joshua		
+Judg	JDG	Jdg	Judices	Judges		
+Ruth	RUT	Ru	Ruth	Ruth		
+1Sam	1SA	1Sa	Samuel_I	1_Samuel		
+2Sam	2SA	2Sa	Samuel_II	2_Samuel		
+1Kgs	1KI	1Ki	Reges_I	1_Kings		
+2Kgs	2KI	2Ki	Reges_II	2_Kings		
+1Chr	1CH	1Ch	Chronica_I	1_Chronicles		
+2Chr	2CH	2Ch	Chronica_II	2_Chronicles		
+Ezra	EZR	Ezr	Esra	Ezra		
+Neh	NEH	Ne	Nehemia	Nehemiah		
+Esth	EST	Es	Esther	Esther		
+Job	JOB	Job	Iob	Job		
+Ps	PSA	Ps	Psalmi	Psalms		
+Prov	PRO	Pr	Proverbia	Proverbs		
+Eccl	ECC	Ec	Ecclesiastes	Ecclesiastes		
+Song	SNG	So	Canticum	Song_of_songs		
+Isa	ISA	Is	Jesaia	Isaiah		
+Jer	JER	Je	Jeremia	Jeremiah		
+Lam	LAM	La	Threni	Lamentations		
+Ezek	EZK	Eze	Ezechiel	Ezekiel		
+Dan	DAN	Da	Daniel	Daniel		
+Hos	HOS	Ho	Hosea	Hosea		
+Joel	JOL	Joe	Joel	Joel		
+Amos	AMO	Am	Amos	Amos		
+Obad	OBA	Ob	Obadia	Obadiah		
+Jonah	JON	Jon	Jona	Jonah		
+Mic	MIC	Mic	Micha	Micah		
+Nah	NAM	Na	Nahum	Nahum		
+Hab	HAB	Hab	Habakuk	Habakkuk		
+Zeph	ZEP	Zep	Zephania	Zephaniah		
+Hag	HAG	Hag	Haggai	Haggai		
+Zech	ZEC	Zec	Sacharia	Zechariah		
+Mal	MAL	Mal	Maleachi	Malachi		
+Matt	MAT	Mt			Mat	Matthew
+Mark	MRK	Mk			Mar	Mark
+Luke	LUK	Lk			Luk	Luke
+John	JHN	Jn			Joh	John
+Acts	ACT	Ac			Act	Acts
+Rom	ROM	Ro			Rom	Romans
+1Cor	1CO	1Co			1Co	1 Corinthians
+2Cor	2CO	2Co			2Co	2 Corinthians
+Gal	GAL	Ga			Gal	Galatians
+Eph	EPH	Eph			Eph	Ephesians
+Phil	PHP	Php			Phi	Philippians
+Col	COL	Col			Col	Colossians
+1Thess	1TH	1Th			1Th	1 Thessalonians
+2Thess	2TH	2Th			2Th	2 Thessalonians
+1Tim	1TI	1Ti			1Ti	1 Timothy
+2Tim	2TI	2Ti			2Ti	2 Timothy
+Titus	TIT	Titus			Tit	Titus
+Phlm	PHM	Phm			Phm	Philemon
+Heb	HEB	Heb			Heb	Hebrews
+Jas	JAS	Jas			Jam	James
+1Pet	1PE	1Pe			1Pe	1 Peter
+2Pet	2PE	2Pe			2Pe	2 Peter
+1John	1JN	1Jn			1Jo	1 John
+2John	2JN	2Jn			2Jo	2 John
+3John	3JN	3 Jn			3Jo	3 John
+Jude	JUD	Jud			Jud	Jude
+Rev	REV	Re			Rev	Revelation
+Tob	TOB					
+Jdt	JDT					
+EsthGr	ESG					
+AddEsth	ADE					
+Wis	WIS					
+SirP						
+Sir	SIR					
+Bar	BAR					
+EpJer	LJE					
+DanGr	DAG					
+AddDan						
+PrAzar	S3Y					
+Sus	SUS					
+Bel	BEL					
+1Macc	1MA					
+2Macc	2MA					
+3Macc	3MA					
+4Macc	4MA					
+PrMan	MAN					
+1Esd	1ES					
+2Esd	2ES					
+AddPs	PS2					
+Odes	ODA					
+PssSol	PSS					
+JoshA	JSA					
+JudgB	JDB					
+TobS	TBS					
+SusTh	SST					
+DanTh	DNT					
+BelTh	BLT					
+EpLao	LAO					
+5Ezra	5EZ					
+4Ezra	EZA					
+6Ezra	6EZ					
+PrSol	PSO					
+PrJer	PJE					
+1En	ENO					
+Jub	JUB					
+4Bar	4BA					
+1Meq	1MQ					
+2Meq	2MQ					
+3Meq	3MQ					
+Rep	REP					
+AddJer						
+PsJos						
+EpCorPaul	COP					
+3Cor	3CO					
+WSir	WSI					
+PrEuth	EUT					
+DormJohn	DOJ					
+JosAsen						
+T12Patr						
+T12Patr.TAsh						
+T12Patr.TBenj						
+T12Patr.TDan						
+T12Patr.TGad						
+T12Patr.TIss						
+T12Patr.TJos						
+T12Patr.TJud						
+T12Patr.TLevi						
+T12Patr.TNaph						
+T12Patr.TReu						
+T12Patr.TSim						
+T12Patr.TZeb						
+2Bar	2BA					
+EpBar	LBA					
+5ApocSyrPss	PS3					
+JosephusJWvi						
+1Clem	1CL					
+2Clem	2CL					
+IgnEph						
+IgnMagn						
+IgnTrall						
+IgnRom						
+IgnPhld						
+IgnSmyrn						
+IgnPol						
+PolPhil						
+MartPol						
+Did	DID					
+Barn	LBA[34]					
+Herm	SHE					
+Herm.Mand						
+Herm.Sim						
+Herm.Vis						
+Diogn						
+AposCreed						
+PapFrag						
+RelElders						
+QuadFrag						
+TatDiat						
+PsMet	PSB					
